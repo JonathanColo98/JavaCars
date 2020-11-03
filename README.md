@@ -1,2 +1,2 @@
 # JavaCars
-An example of concurrent program in Java 5
+An example of concurrent program in Java 5.
